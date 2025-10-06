@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "dev.ui",
+  title: "Dev UI",
   description: "devian's official UI library",
 };
 
